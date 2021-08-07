@@ -1,0 +1,242 @@
+Exporter version: 2.93.3, Blender version: 2.93.2
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\DENIE\OneDrive\Рабочий стол\skfnsknfhuavsuJDGHCv\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of camera (UniversalCamera):  3D вид: View 1
+	processing begun of mesh:   Выдавливание [2037]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  288
+		num normals        :  288
+		num tangents       :  1152
+		num uvs            :  576
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  164
+	processing begun of mesh:   Выдавливание [2986]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  256
+		num normals        :  256
+		num tangents       :  1024
+		num uvs            :  512
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  104
+	processing begun of mesh:   Вращение [4204]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  478
+		num normals        :  478
+		num tangents       :  1912
+		num uvs            :  956
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  614
+	processing begun of mesh:   Вращение [4457]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  480
+		num normals        :  480
+		num tangents       :  1920
+		num uvs            :  960
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  614
+	processing begun of mesh:   Модификатор [4847]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  2058
+		num normals        :  2058
+		num tangents       :  8232
+		num uvs            :  4116
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2290
+	processing begun of mesh:   Выдавливание [5275]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  724
+		num normals        :  724
+		num tangents       :  2896
+		num uvs            :  1448
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  668
+	processing begun of mesh:   Модификатор [5529]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  114
+		num normals        :  114
+		num tangents       :  456
+		num uvs            :  228
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  48
+	processing begun of mesh:   Выдавливание [5946]
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  128
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube
+		WARNING: No materials have been assigned: 
+		num positions      :  131
+		num normals        :  131
+		num tangents       :  0
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72
+		WARNING: # of 0 area faces found:  48
+	processing begun of mesh:  Cube.001
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.005
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.006
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.002
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.003
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.004
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.007
+		WARNING: No materials have been assigned: 
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.008
+		WARNING: No materials have been assigned: 
+		num positions      :  113
+		num normals        :  113
+		num tangents       :  0
+		num uvs            :  226
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  54
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cube.009
+		WARNING: No materials have been assigned: 
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.010
+		WARNING: No materials have been assigned: 
+		num positions      :  40
+		num normals        :  40
+		num tangents       :  0
+		num uvs            :  80
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  16
+		WARNING: # of 0 area faces found:  6
+	processing begun of mesh:  Cube.011
+		WARNING: No materials have been assigned: 
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  0
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18
+		WARNING: # of 0 area faces found:  6
+	processing begun of mesh:  Cube.012
+		WARNING: No materials have been assigned: 
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:   Выдавливание [2037]
+	writing mesh:   Выдавливание [2986]
+	writing mesh:   Вращение [4204]
+	writing mesh:   Вращение [4457]
+	writing mesh:   Модификатор [4847]
+	writing mesh:   Выдавливание [5275]
+	writing mesh:   Модификатор [5529]
+	writing mesh:   Выдавливание [5946]
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.005
+	writing mesh:  Cube.006
+	writing mesh:  Cube.002
+	writing mesh:  Cube.003
+	writing mesh:  Cube.004
+	writing mesh:  Cube.007
+	writing mesh:  Cube.008
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 32.646 secs
